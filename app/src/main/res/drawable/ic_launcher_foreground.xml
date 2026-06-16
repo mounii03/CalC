@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 1. Top-Left Key (Radiant Purple, Plus) -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M34,30 h12 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-12 a4,4 0 0 1 -4,-4 v-12 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M35,40 h10 M40,35 v10" />
+
+    <!-- 2. Top-Right Key (Deep Violet, Minus) -->
+    <path
+        android:fillColor="#4C1D95"
+        android:pathData="M62,30 h12 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-12 a4,4 0 0 1 -4,-4 v-12 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M67,40 h10" />
+
+    <!-- 3. Bottom-Left Key (Deep Violet, Multiply) -->
+    <path
+        android:fillColor="#4C1D95"
+        android:pathData="M34,58 h12 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-12 a4,4 0 0 1 -4,-4 v-12 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M37,65 L43,71 M43,65 L37,71" />
+
+    <!-- 4. Bottom-Right Key (Cyber Orchid, Equals) -->
+    <path
+        android:fillColor="#D946EF"
+        android:pathData="M62,58 h12 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-12 a4,4 0 0 1 -4,-4 v-12 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M66,65 h10 M66,69 h10" />
+
+</vector>
